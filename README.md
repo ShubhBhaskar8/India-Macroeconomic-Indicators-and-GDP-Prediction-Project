@@ -1,8 +1,8 @@
-# India GDP and Macroeconomic Indicators: Exploratory Modeling and Scenario Analysis (2016–2024)
+# India GDP and Macroeconomic Indicators: Exploratory Modeling and Scenario Analysis (2004–2024)
 
 ## 📌 Project Overview
 
-This project explores the relationship between India's quarterly GDP growth and 17 macroeconomic indicators such as CPI (Inflation), M3 (Money Supply), Exchange Rate, Repo Rate, GFCF (Investment), and others over the period 2016 Q1 to 2024 Q1. The aim was not only to model GDP but also to understand the impact and contribution of various economic factors.
+This project explores the relationship between India's quarterly GDP growth and 17 macroeconomic indicators such as CPI (Inflation), M3 (Money Supply), Exchange Rate, Repo Rate, GFCF (Investment), and others over the period 2004 Q2 to 2024 Q4. The aim was not only to model GDP but also to understand the impact and contribution of various economic factors.
 
 ## ⚙️ Key Steps
 
